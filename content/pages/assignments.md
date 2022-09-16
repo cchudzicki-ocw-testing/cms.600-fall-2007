@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on assignments for the course, including
+  a quick design project for the first day of class, weekly writings, videogame analysis,
+  and the midterm exam.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

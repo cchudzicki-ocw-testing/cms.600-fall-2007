@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on projects assigned for the course.
+  Includes weekly writings, readings, choosing a game, videogame analysis, papers,
+  and presentations.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus section provides the course description and information
+  about course goals, required texts, student requirements, weekly details, grading,
+  resources, plagiarism, and recommended citation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
